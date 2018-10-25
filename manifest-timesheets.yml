@@ -9,3 +9,5 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://registration-pal-ar-ps.apps.pikes.pal.pivotal.io
   services:
   - tracker-timesheets-database
+  - tracker-service-registry
+
